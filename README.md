@@ -2,7 +2,7 @@
   
   # Olá! Eu sou o Eduardo 👋
   
-  <img src="https://media.giphy.com/media/l4pTsh4FuKBCRw1kA/giphy.gif" alt="Chuva de Números Binários e Dados em Movimento" width="600px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl2M2Y3cnZ3d2V1ajQzM2I0ZmNvb3Q0Y2dsa252YTE0eG1waDZvciZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/10Uv58wR1n520K/giphy.gif" alt="Chuva de Números Binários e Dados em Movimento" width="600px"/>
 
   <p>
     Sou um 
