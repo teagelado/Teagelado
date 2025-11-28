@@ -2,7 +2,7 @@
   
   # Olá! Eu sou o Eduardo 👋
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eDFsd294em1yZzhoOHp0bXh2Nm5xZ2V0NWN4NmY1Z2g1bW10MSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L1R1ODl0gHn1QZ3rYYg/giphy.gif" alt="Chuva de Números Binários e Dados em Movimento" width="600px"/>
+  <img src="https://img.freepik.com/vetores-gratis/ilustracao-do-logotipo-do-astronauta_126523-2815.jpg?w=740&t=st=1700689408~exp=1700690008~hmac=a27d2c3f87b8f9e2b152d19f61b17a12b3252a12b87a9354924b216067099f6b" alt="Astronauta Abstrato" width="600px"/>
 
   <p>
     Sou um 
