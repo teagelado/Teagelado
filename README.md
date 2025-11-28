@@ -58,7 +58,7 @@ Assim como na filosofia, acredito que a clareza e a lógica são essenciais para
 ## 📫 Conecte-se Comigo
 
 
-| **LinkedIn** | [Cole o seu perfil do LinkedIn aqui] |
+| **LinkedIn** | [www.linkedin.com/in/eduardo-borges-analist] |
 
 
 ---
