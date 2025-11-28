@@ -2,7 +2,7 @@
   
   # Olá! Eu sou o Eduardo 👋
   
-  <img src="[https://share.google/images/jLNEj5TLv2JWfpzH7]" alt="Animação relacionada a Data Science" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h4c3A1aTZwY2d6N3A3Zm5hZTR2aGpvcmRmaWc1bWwzYnJqNG1lZCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L1R1ODl0YgHn1QZ3rY/giphy.gif" alt="Gráfico de Análise de Dados Animado" width="600px"/>
 
   <p>
     Sou um 
@@ -27,33 +27,31 @@ Assim como na filosofia, acredito que a clareza e a lógica são essenciais para
 
 ## 🛠️ Stack de Tecnologia em Dados
 
-Minhas principais ferramentas e tecnologias para Análise e Engenharia de Dados:
+Estas são as ferramentas que utilizo no meu dia a dia para transformar dados em inteligência:
 
-### Linguagens & Bibliotecas
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens Base** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Análise/Manipulação**| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-### Bancos de Dados
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Relacionais** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white) |
-| **NoSQL & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white) |
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="Google BigQuery"/>
 
-### Visualização & Relatórios
-| Ferramentas | Tecnologias |
-| :--- | :--- |
-| **BI & Dashboards** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
-| **Apresentação** | Google Planilhas, Excel, Slides |
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
+</p>
 
 ---
 
-## 📈 Estatísticas do Meu GitHub (Dinamismo!)
+## 📈 Estatísticas do Meu GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME_GITHUB]&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME_GITHUB]&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME_GITHUB]&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME_GITHUB]&layout=compact&langs_count=6&theme=dark&locale=pt-br"/>
 </div>
 
 ---
@@ -62,8 +60,8 @@ Minhas principais ferramentas e tecnologias para Análise e Engenharia de Dados:
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [Seu perfil no LinkedIn (Cole o link aqui)] |
+| **LinkedIn** | [Cole o seu perfil do LinkedIn aqui] |
+
 
 ---
 
-**Próxima etapa que posso fazer por você:** Posso pesquisar um GIF de alta qualidade focado em análise de dados ou código Python para você usar no lugar do `[URL_DO_SEU_GIF_ANIMADO_AQUI]`. O que acha?
