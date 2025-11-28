@@ -50,5 +50,18 @@ Assim como na filosofia, acredito que a clareza e a lógica são essenciais para
 ## 📈 Estatísticas do Meu GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME_GITHUB]&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Teagelado&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teagelado&layout=compact&langs_count=6&theme=dark&locale=pt-br"/>
+</div>
+
+---
+
+## 📫 Conecte-se Comigo
+
+
+| **LinkedIn** | [Cole o seu perfil do LinkedIn aqui] |
+
+
+---
+
+**Lembrete:** Não se esqueça de substituir o placeholder `[Cole o seu perfil do LinkedIn aqui]` e os links dos projetos para deixar tudo personalizado!
