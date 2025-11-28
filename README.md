@@ -2,7 +2,6 @@
   
   # Olá! Eu sou o Eduardo 👋
   
-  <img src="https://img.freepik.com/vetores-gratis/ilustracao-do-logotipo-do-astronauta_126523-2815.jpg?w=740&t=st=1700689408~exp=1700690008~hmac=a27d2c3f87b8f9e2b152d19f61b17a12b3252a12b87a9354924b216067099f6b" alt="Astronauta Abstrato" width="600px"/>
 
   <p>
     Sou um 
