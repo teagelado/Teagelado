@@ -2,7 +2,7 @@
   
   # Olá! Eu sou o Eduardo 👋
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h4c3A1aTZwY2d6N3A3Zm5hZTR2aGpvcmRmaWc1bWwzYnJqNG1lZCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L1R1ODl0YgHn1QZ3rY/giphy.gif" alt="Gráfico de Análise de Dados Animado" width="600px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eDFsd294em1yZzhoOHp0bXh2Nm5xZ2V0NWN4NmY1Z2g1bW10MSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/kgyt04F7546C9vj08h/giphy.gif" alt="Números e Dados Abstratos em Movimento" width="600px"/>
 
   <p>
     Sou um 
@@ -15,8 +15,6 @@
 
 ---
 
-## ✨ Filosofia de Trabalho
-
 > **"A matemática é o alfabeto com o qual Deus escreveu o universo."**
 >
 > — *Platão*
@@ -27,12 +25,14 @@ Assim como na filosofia, acredito que a clareza e a lógica são essenciais para
 
 ## 🛠️ Stack de Tecnologia em Dados
 
-Estas são as ferramentas que utilizo no meu dia a dia para transformar dados em inteligência:
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -51,17 +51,4 @@ Estas são as ferramentas que utilizo no meu dia a dia para transformar dados em
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME_GITHUB]&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME_GITHUB]&layout=compact&langs_count=6&theme=dark&locale=pt-br"/>
-</div>
-
----
-
-## 📫 Conecte-se Comigo
-
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | [Cole o seu perfil do LinkedIn aqui] |
-
-
----
-
+  <img height="180em" src="https://github-readme
